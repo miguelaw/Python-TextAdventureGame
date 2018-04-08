@@ -1,4 +1,4 @@
-# Python-TextAdventureGame
+# Text Adventure Game
 
 ## Description
 A complete text game like [Zork](https://en.wikipedia.org/wiki/Zork) or [Starcross](https://en.wikipedia.org/wiki/Starcross_(video_game)) that brings back memories of the good ol' times in which the users  had to choose paths, and based on user input they'll get a final fate description.
